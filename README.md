@@ -10,3 +10,5 @@ Sexo: 'f' ou 'm';<br>
 Estado Civil: 's', 'c', 'v', 'd';](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2003)
 - [x] [Exercício 04 - Supondo que a população de um país A seja da ordem de 80000 habitantes com uma taxa anual de crescimento de 3% e que a população de B seja 200000 habitantes com uma taxa de crescimento de 1.5%. Faça um programa que calcule e escreva o número de anos necessários para que a população do país A ultrapasse ou iguale a população do país B, mantidas as taxas de crescimento.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2004)
 - [x] [Exercício 05 - Altere o programa anterior permitindo ao usuário informar as populações e as taxas de crescimento iniciais. Valide a entrada e permita repetir a operação.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2005)
+- [x] [Exercício 06- Faça um programa que imprima na tela os números de 1 a 20, um abaixo do outro. Depois modifique o programa para que ele mostre os números um ao lado do outro.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2006)
+
