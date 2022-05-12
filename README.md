@@ -2,7 +2,7 @@
 
 - [x] [Exercício 01 - Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2001)
 - [x] [Exercício 02 - Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2002)
-- [x] [Exercício 02 -Faça um programa que leia e valide as seguintes informações: <br>
+- [x] [Exercício 03-Faça um programa que leia e valide as seguintes informações: <br>
 Nome: maior que 3 caracteres;<br>
 Idade: entre 0 e 150;<br>
 Salário: maior que zero;<br>
