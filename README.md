@@ -13,3 +13,4 @@ Estado Civil: 's', 'c', 'v', 'd';](https://github.com/Giovani-Gomes/Exercicio_3-
 - [x] [Exercício 06- Faça um programa que imprima na tela os números de 1 a 20, um abaixo do outro. Depois modifique o programa para que ele mostre os números um ao lado do outro.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2006)
 - [x] [Exercício 07- Faça um programa que leia 5 números e informe o maior número.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2007)
 - [x] [Exercício 08- Faça um programa que leia 5 números e informe a soma e a média dos números.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2008)
+- [x] [Exercício 09 - Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2009)
