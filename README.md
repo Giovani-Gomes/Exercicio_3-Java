@@ -16,3 +16,4 @@ Estado Civil: 's', 'c', 'v', 'd';](https://github.com/Giovani-Gomes/Exercicio_3-
 - [x] [Exercício 09 - Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2009)
 - [x] [Exercício 10 - Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2010)
 - [x] [Exercício 11 - Altere o programa anterior para mostrar no final a soma dos números.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2011)
+- [x] [Exercício 12 - Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2012)
