@@ -1,4 +1,5 @@
 # Lista de Exercicios 3 <img align="" alt="Java" height="30" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+![GitHub repo size](https://img.shields.io/github/repo-size/Giovani-Gomes/Exercicio_3-Java)
 
 - [x] [Exercício 01 - Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2001)
 - [x] [Exercício 02 - Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.](https://github.com/Giovani-Gomes/Exercicio_3-Java/tree/main/Exerc%C3%ADcio%2002)
